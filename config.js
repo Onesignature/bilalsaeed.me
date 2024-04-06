@@ -9,11 +9,11 @@ window.PorfolioConfig = {
     },
     {
       name: 'C/C++',
-      description: 'Fugiat veniam esse consequat quis cillum elit consequat Lorem pariatur ipsum veniam irure incididunt non.'
+      description: 'Fluent in both C and C++, Ive delved into system-level programming and software development, harnessing these languages to build robust, efficient solutions. From crafting algorithms to optimizing performance, my expertise enables me to tackle complex challenges with confidence and innovation.'
     },
     {
       name: 'Solidity',
-      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+      description: 'With fluency in C and C++, Ive ventured into learning Solidity, enabling me to deploy my cryptocurrencies, experiment with smart contracts, and identify vulnerabilities for reporting. This journey encompasses a deep dive into blockchain technology, allowing me to innovate and contribute to the security and functionality of decentralized systems.'
     }
   ],
   works: [
@@ -35,16 +35,16 @@ window.PorfolioConfig = {
   ],
   hobbies: [
     {
-      name: 'Rock Climbing',
-      description: 'Occaecat ipsum dolor ea ad ut irure do proident excepteur consectetur duis eu culpa velit.'
+      name: 'Automotives',
+      description: 'I am a car enthusiasts and love the mechanisms consisting of anything internally combusting such as engines.'
     },
     {
-      name: 'Surfing',
-      description: 'Laboris occaecat adipisicing culpa duis aute ea excepteur quis eiusmod mollit est pariatur.'
+      name: 'CryptoCurrency Research/Trading',
+      description: 'Involed in the blockchain space for over 6 years, I have observed over 2 Bull/Bear cycles and have grown a network over twitter. I have an eye for revolutionary projects whereby I find them early and consistently achieve trades with the maximal profits using my custom trading algorithms(reach out for more details).'
     },
     {
-      name: 'Rubick\'s Cube',
-      description: 'Laborum pariatur sint labore officia enim occaecat id.'
+      name: 'Chess',
+      description: 'I enjoy problem solving through the game of chess while I get to learn cool gambits.'
     }
   ],
   contacts: {
@@ -62,6 +62,10 @@ window.PorfolioConfig = {
       {
         name: 'Twitter/X',
         link: 'https://twitter.com/Billdogcord'
+      },
+      {
+        name: 'Resume',
+        link: 'BilalSAEED_CV.pdf'
       }
     ]
   }
