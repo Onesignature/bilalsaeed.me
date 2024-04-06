@@ -1,13 +1,32 @@
-# Responsive Portfolio Website Alexa
-## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
-### Responsive Portfolio Website Alexa
+# Hacker - Free Portfolio Website Templates
 
-- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a light and dark mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+A simple terminal template for you amazing programmers out there!
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+![Hacker - Screenshot](screenshot-hacker.png "Hacker - Screenshot")
 
-![preview img](/preview.png)
+## Features
+
+✅ Fast
+
+✅ FREE
+
+✅ Mobile Responsive
+
+✅ SEO Friendly
+
+✅ Compatible with any web server
+
+✅ 0 Dependencies
+
+## How to use
+
+1. Close or manually download the code.
+2. Under the "plain" folder, edit the file `config.js`.
+3. Open the `index.html` file in your browser.
+4. If everything looks good, upload it to your server.
+
+## I am not a web developer, how do I setup my portfolio website?
+
+> Need help with setting up your portfolio website?
+
+Contact us at https://ossph.org
