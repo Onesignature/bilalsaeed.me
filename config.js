@@ -48,21 +48,20 @@ window.PorfolioConfig = {
     }
   ],
   contacts: {
-    email: 'john.doe@gmail.com',
-    mobileNo: '+639171234567',
-    phoneNo: '+12 345 6789',
+    email: 'bilalsaeedahmed1@gmail.com',
+    mobileNo: '+971 50 666 4679',
     links: [
       {
         name: 'GitHub',
-        link: 'https://github.com/jofftiquez'
+        link: 'https://github.com/Onesignature'
       },
       {
-        name: 'Facebook',
-        link: 'https://facebook.com/jofftiquez'
+        name: 'Linkedin',
+        link: 'https://facebook.com/Onesignature'
       },
       {
-        name: 'Twitter',
-        link: 'https://twitter.com/jrtiquez'
+        name: 'Twitter/X',
+        link: 'https://twitter.com/Billdogcord'
       }
     ]
   }
