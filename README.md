@@ -1,11 +1,13 @@
-# **basselashi.github.io**
-My ePortfolio is developed in React with Bootstrap Darkly theme and a bunch of JS libraries such as Typer.js and Flickity.
+# Responsive Portfolio Website Alexa
+## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
+### Responsive Portfolio Website Alexa
 
-### **Usage**
-The application uses the default npm commands.
-* Node modules are not committed, run ```npm install``` to install them
-* To run the application, use ```npm start watch```
-* To build, use ```npm run build```
+- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
+- Smooth scrolling in each section.
+- Includes a light and dark mode.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-### **Disclaimer**
-The application is available for personal use, please contact if otherwise.
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+
+![preview img](/preview.png)
