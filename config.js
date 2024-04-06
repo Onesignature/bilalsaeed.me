@@ -1,7 +1,7 @@
 window.PorfolioConfig = {
   name: 'Bilal SAEED',
   jobTitle: 'Blockchain/Web Developer',
-  jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
+  jobDescription: 'A passionate developer with a keen interest in blockchain technology, cryptocurrencies, and web development. Explore my projects and expertise in creating innovative solutions that leverage the power of the digital world.',
   skills: [
     {
       name: 'JavaScript',
