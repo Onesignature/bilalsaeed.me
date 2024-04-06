@@ -4,15 +4,15 @@ window.PorfolioConfig = {
   jobDescription: 'A passionate developer with a keen interest in blockchain technology, cryptocurrencies, and web development. Explore my projects and expertise in creating innovative solutions that leverage the power of the digital world.',
   skills: [
     {
-      name: 'JavaScript',
-      description: 'Reprehenderit mollit id ad veniam.'
+      name: 'JavaScript HTML CSS',
+      description: 'Gaining proficiency in Javascript for my Web Development projects.'
     },
     {
-      name: 'HTML',
+      name: 'C/C++',
       description: 'Fugiat veniam esse consequat quis cillum elit consequat Lorem pariatur ipsum veniam irure incididunt non.'
     },
     {
-      name: 'CSS',
+      name: 'Solidity',
       description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
     }
   ],
