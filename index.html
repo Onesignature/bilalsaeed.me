@@ -90,46 +90,32 @@
         </v-row>
       </header>
       <main class="container">
-        <!-- Skills Section -->
-        <section class="row mb-5" id="skills">
-          <v-col cols="12" md="6">
-            <h1 class="primary--text" data-aos="fade-up">/Skills</h1>
-          </v-col>
-          <v-col v-for="(skill, index) in skills" cols="12" :key="index">
-            <v-card hover="hover" height="100%" data-aos="fade-up">
-              <v-card-text>
-                <h2 class="primary--text">
-                  {{skill.name}}</h2>
-                <br>
-                <p>:{{skill.description}}</p>
-              </v-card-text>
-              <v-footer>
-                <v-spacer></v-spacer>
-                <small class="primary--text">~/.skills</small>
-              </v-footer>
-            </v-card>
-          </v-col>
-        </section>
-        <!-- Recent Works Section -->
-        <section class="row mb-5" id="works">
-          <v-col cols="12" md="6">
-            <h1 class="primary--text" data-aos="fade-up">/Recent Works</h1>
-          </v-col>
-          <v-col v-for="(work, index) in works" cols="12" :key="index">
-            <v-card hover="hover" height="100%" data-aos="fade-up">
-              <v-card-text>
-                <h2 class="primary--text">
-                  {{work.name}}</h2>
-                <br>
-                <p>:{{work.description}}</p>
-              </v-card-text>
-              <v-footer>
-                <v-spacer></v-spacer>
-                <small class="primary--text">~/.works</small>
-              </v-footer>
-            </v-card>
-          </v-col>
-        </section>
+<!-- Skills Section with Image -->
+<section class="row mb-5" id="skills">
+  <v-row align="center" class="mb-3"> <!-- Align items in the row to the center and add margin-bottom -->
+    <v-col cols="auto"> <!-- Auto width for the image column -->
+      <img src="icons\skill-icon-1892x2048-uwarhe6o.png" alt="Skills Icon" style="height: 50px;"> <!-- Image tag with the source path and fixed height -->
+    </v-col>
+    <v-col> <!-- Column for the heading -->
+      <h1 class="primary--text" data-aos="fade-up">/Skills</h1>
+    </v-col>
+  </v-row>
+  <v-col v-for="(skill, index) in skills" cols="12" :key="index">
+    <v-card hover="hover" height="100%" data-aos="fade-up">
+      <v-card-text>
+        <h2 class="primary--text">
+          {{skill.name}}</h2>
+        <br>
+        <p>:{{skill.description}}</p>
+      </v-card-text>
+      <v-footer>
+        <v-spacer></v-spacer>
+        <small class="primary--text">~/.skills</small>
+      </v-footer>
+    </v-card>
+  </v-col>
+</section>
+
         <!-- Hobbies Section -->
         <section class="row mb-5" id="hobbies">
           <v-col cols="12" md="6">
